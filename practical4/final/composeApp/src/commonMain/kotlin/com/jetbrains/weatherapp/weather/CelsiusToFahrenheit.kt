@@ -1,5 +1,5 @@
 package com.jetbrains.weatherapp.weather
 
-fun celsiusToFahrenheit(celcius: Double): Double {
-    return (celcius * 9/5) + 32
+fun celsiusToFahrenheit(celsius: Double): Double {
+    return (celsius * 9/5) + 32
 }
